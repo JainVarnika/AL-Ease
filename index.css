@@ -1,0 +1,157 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
+
+body{
+  background-color: #f5f0d8;
+}
+.text1{
+    position: absolute;
+    top: 250px;
+    left: 5%;
+    font-size: 450%;
+    font-weight: bolder;
+    color: #fff;
+}
+ .button{
+    position: absolute;
+    margin-top: 90px;
+    padding: 10px;
+    margin-left: -570px ;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: black;
+    color: #fff;
+    
+}
+.medical{
+    display: flex;
+    padding-top: 10px;
+    padding-left: 250px;
+    padding-right: 250px;
+    justify-content: space-evenly;
+    text-align: center;
+    
+}
+.heading{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    color: rgba(6, 6, 81, 0.847);
+    padding: 40px;
+}
+
+.image{
+    margin-top: 60px;
+}
+
+.review{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 100px;
+    font-weight: bolder;
+    color: white;
+}
+.review p{
+    font-size: 25px;
+}
+.snip1533 {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  color: #9e9e9e;
+  display: inline-block;
+  font-family: 'Roboto', Arial, sans-serif;
+  font-size: 16px;
+  margin: 35px 10px 10px;
+  max-width: 310px;
+  min-width: 250px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border-top: 5px solid rgba(6, 6, 81, 0.847);
+  left: 210px;
+  margin-left: 50px;
+  margin-top: 100px;
+  margin-bottom: 40px;
+}
+
+.snip1533 *,
+.snip1533 *:before {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.1s ease-out;
+  transition: all 0.1s ease-out;
+}
+
+.snip1533 figcaption {
+  padding: 13% 10% 12%;
+}
+
+.snip1533 figcaption:before {
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  background-color: #fff;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  color:rgba(0, 0, 0, 0.25);
+  content: "\f10e";
+  font-family: 'FontAwesome';
+  font-size: 32px;
+  font-style: normal;
+  left: 50%;
+  line-height: 60px;
+  position: absolute;
+  top: -30px;
+  width: 60px;
+}
+
+.snip1533 h3 {
+  color: rgba(6, 6, 81, 0.847);
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 24px;
+  margin: 10px 0 5px;
+}
+
+.snip1533 h4 {
+  font-weight: 400;
+  margin: 0;
+  opacity: 0.5;
+}
+
+.snip1533 blockquote {
+  font-style: italic;
+  font-weight: 300;
+  margin: 0 0 20px;
+}
+.heading1{
+    text-align: center;
+}
+.small{
+    font-weight: lighter;
+    text-align: center;
+}
+.appointment{
+   
+   color: rgba(6, 6, 81, 0.847);
+   font-weight: bolder;
+   padding: 20px;
+
+}
+.doc{
+    font-size: 20px;
+    margin-left: 600px;
+}
+#date{
+    margin-left:600px ;
+    width: 270px;
+    padding-inline: 10px;
+}
+#date1{
+    margin-left:600px ;
+    width: 190px;
+    padding-inline: 10px;
+}
+.submit{
+    color: #fff;
+    background-color: rgba(6, 6, 81, 0.847);
+} 
