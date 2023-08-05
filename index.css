@@ -3,6 +3,16 @@
 body{
   background-color: #f5f0d8;
 }
+.aleaze{
+  position: absolute;
+  top: 110px;
+  left: 5%;
+  font-size: 450%;
+  font-weight: bolder;
+  color: rgba(6, 6, 81, 0.847);
+  font-family: "Georgia", Times, serif;
+
+}
 .text1{
     position: absolute;
     top: 250px;
